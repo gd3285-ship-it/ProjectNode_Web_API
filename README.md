@@ -34,32 +34,28 @@
 | **Model** | הגדרת סכימות MongoDB (Links & Clicks) |
 | **API Endpoints** | ממשק עבודה מול שירותים חיצוניים |
 
-
-
 ---
 
 ## 🛠 טכנולוגיות בשימוש
-<div align="left">
 
-- **Runtime:** `Node.js`
-- **Framework:** `Express.js`
-- **Database:** `MongoDB` עם `Mongoose`
-- **Tools:** `Thunder Client` לבדיקות API
-
-</div>
+- **Runtime:** Node.js
+- **Framework:** Express.js
+- **Database:** MongoDB עם Mongoose
+- **Tools:** Thunder Client לבדיקות API
 
 ---
 
 ## 💻 התחלה מהירה
+
 1. **שכפול הפרויקט:**
    ```bash
    git clone [https://github.com/gd3285-ship-it/ProjectNode_Web_API.git](https://github.com/gd3285-ship-it/ProjectNode_Web_API.git)
 
-   התקנת ספריות:
 
-Bash
-npm install
-הגדרת משתני סביבה:
+
+   npm install
+
+   הגדרת משתני סביבה:
 יש לוודא הגדרת MONGO_URI בתיקיית ה-.env.
 
 הרצה:
