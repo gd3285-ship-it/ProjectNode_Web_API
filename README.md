@@ -53,15 +53,6 @@
 
 
 
-   npm install
+   
 
-   הגדרת משתני סביבה:
-יש לוודא הגדרת MONGO_URI בתיקיית ה-.env.
-
-הרצה:
-
-Bash
-npm start
-💡 טיפ למשתמשים
-כדי לנטר מקור תנועה מסוים, פשוט הוסיפו את הפרמטר t לקישור:
-https://your-api.com/r/:id?t=instagram
+ 
