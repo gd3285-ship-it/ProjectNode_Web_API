@@ -47,7 +47,15 @@
 - **Tools:** `Thunder Client` לבדיקות API
 
 </div>
-התקנת ספריות:
+
+---
+
+## 💻 התחלה מהירה
+1. **שכפול הפרויקט:**
+   ```bash
+   git clone [https://github.com/gd3285-ship-it/ProjectNode_Web_API.git](https://github.com/gd3285-ship-it/ProjectNode_Web_API.git)
+
+   התקנת ספריות:
 
 Bash
 npm install
@@ -61,10 +69,3 @@ npm start
 💡 טיפ למשתמשים
 כדי לנטר מקור תנועה מסוים, פשוט הוסיפו את הפרמטר t לקישור:
 https://your-api.com/r/:id?t=instagram
-
----
-
-## 💻 התחלה מהירה
-1. **שכפול הפרויקט:**
-   ```bash
-   git clone [https://github.com/gd3285-ship-it/ProjectNode_Web_API.git](https://github.com/gd3285-ship-it/ProjectNode_Web_API.git)
